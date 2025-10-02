@@ -41,6 +41,6 @@ The app also tracks how many times each shortened link has been clicked.
 5. **Run the server:**
    ```bash
    npm start
-  or (for auto-restart on save):
   ```bash
   npx nodemon server.js
+
