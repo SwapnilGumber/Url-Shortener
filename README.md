@@ -38,9 +38,11 @@ The app also tracks how many times each shortened link has been clicked.
 3. **Start MongoDB locally (or set up MongoDB Atlas if using cloud):**
    ```bash
    mongod
-5. **Run the server:**
+4. **Run the server:**
    ```bash
    npm start
-  ```bash
-  npx nodemon server.js
+5. **Open in your browser:**
+   ```bash
+   http://localhost:5000
+ 
 
